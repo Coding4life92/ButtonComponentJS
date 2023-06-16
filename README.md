@@ -1,2 +1,2 @@
 # ButtonComponentJS
-Custom Button component that uses vanilla JavaScript that uses Object Oriented programming.
+Custom Button component that uses vanilla JavaScript and uses Object Oriented programming.
